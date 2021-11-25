@@ -2,13 +2,14 @@
 
 ##   Rabu,24 November 2021 saya telah belajar:
 * Saya telah belajar  Activity Main.
-![Screenshot_20211115_083958](https://user-images.githubusercontent.com/68719137/141880218-a13f0e42-e69d-4715-bca4-b54b13f65cfd.png)
+![Screenshot_1637812581](https://user-images.githubusercontent.com/68719137/143377913-be38a0fd-c9dd-4a74-9b6a-07faab883e71.png)
 
 * Saya telah belajar DetailsActivity.
-
+![Screenshot_1637812564](https://user-images.githubusercontent.com/68719137/143377462-711e1d21-3a79-43c5-81ec-80e477fcf5d2.png)
 
 * Saya telah belajar TopPlacesViewHolder.
-![Screenshot_1637560412](https://user-images.githubusercontent.com/68719137/142807901-34fdc92f-4914-45ec-abc7-ab1a459a73d9.png)
+<img width="434" alt="Screen Shot 2021-11-25 at 11 02 49" src="https://user-images.githubusercontent.com/68719137/143377858-9e02361f-fde0-46c9-85c9-ce1ac97bf61a.png">
 
 * Saya telah belajar RecentsAdapter.
-![Screenshot_1637560408](https://user-images.githubusercontent.com/68719137/142807955-72bde39e-7ecc-4deb-a300-5b340516b720.png)
+<img width="435" alt="Screen Shot 2021-11-25 at 11 00 50" src="https://user-images.githubusercontent.com/68719137/143377709-5923bca2-9bbb-42ba-8cd6-57916688306b.png">
+
